@@ -1,0 +1,16 @@
+{
+  "name": "CodeSignal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstDuplicate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon cryptSolution"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
